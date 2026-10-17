@@ -3,7 +3,7 @@
 Nền tảng học **Helix Core (Perforce)** cho quy trình làm game với Unreal Engine.
 Không chỉ đọc tài liệu — bạn học bằng **quiz**, **bài tập tình huống** và **ôn tập lặp lại ngắt quãng (spaced repetition)** để *học xong không quên*.
 
-🔗 **Bản demo:** https://rei-1407.github.io/Helix-Core/
+🔗 **Bản demo:** https://reix-labs.github.io/Helix-Core/
 
 ---
 
